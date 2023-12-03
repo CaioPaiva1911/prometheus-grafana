@@ -1,1 +1,9 @@
 /prometheus/prometheus_data/
+/target
+/app/target
+### IntelliJ IDEA ###
+/.idea/
+.idea
+*.iml
+*.ipr
+*.iws
